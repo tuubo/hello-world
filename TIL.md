@@ -4,3 +4,9 @@ URL : [css – インラインブロックを並べて画像を表示すると�
 概要 : 
 - `vertical-align` のデフォルト値は `baseline`
 - `display: inline-block` で画像を含むコンテンツと文字を含むコンテンツを並べると、画像の下端と文字の下端が揃うように並び、見た目上ずれが発生する
+
+## Storybook
+URL：[Story rendering](https://storybook.js.org/docs/react/configure/story-rendering#adding-to-head/)
+
+概要：
+- `.storybook/preview-head.html` を使えば、iframeの書き換えが可能？（調査中）
