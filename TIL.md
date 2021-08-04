@@ -10,3 +10,8 @@ URL：[Story rendering](https://storybook.js.org/docs/react/configure/story-rend
 
 概要：
 - `.storybook/preview-head.html` を使えば、iframeの書き換えが可能？（調査中）
+
+URL：[Theme switcher Addon | Storybook](https://storybook.js.org/addons/storybook-addon-themes)
+
+概要：
+- Storybook のテーマの切り替え（任意の要素のクラスの切り替え）ができる
