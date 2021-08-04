@@ -15,3 +15,11 @@ URL：[Theme switcher Addon | Storybook](https://storybook.js.org/addons/storybo
 
 概要：
 - Storybook のテーマの切り替え（任意の要素のクラスの切り替え）ができる
+
+## Git
+URL：[Git のチェリーピック | Atlassian Git Tutorial](https://www.atlassian.com/ja/git/tutorials/cherry-pick)  
+※分かりやすいサイトがあれば更新したい
+
+概要：
+
+- 任意のコミットだけを別のブランチに適用することができる
