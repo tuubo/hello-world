@@ -23,3 +23,9 @@ URL：[Git のチェリーピック | Atlassian Git Tutorial](https://www.atlass
 概要：
 
 - 任意のコミットだけを別のブランチに適用することができる
+
+URL：[revert｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/stepup/29/)
+
+概要：
+
+- 勉強中...
