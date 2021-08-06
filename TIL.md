@@ -31,3 +31,8 @@ URL：[revert｜サル先生のGit入門【プロジェクト管理ツールBack
 - 特定のコミットを打ち消すことができる
 - 新しくコミットを追加するため、コミットの履歴は残る
 
+URL：[rebase -i でコミットをまとめる｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/stepup/32/)
+
+概要：
+
+- コミットをまとめることができる
