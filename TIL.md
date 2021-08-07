@@ -36,3 +36,11 @@ URL：[rebase -i でコミットをまとめる｜サル先生のGit入門【プ
 概要：
 
 - コミットをまとめることができる
+
+URL：[マージとリベース | Atlassian Git Tutorial](https://www.atlassian.com/ja/git/tutorials/merging-vs-rebasing)
+
+概要：
+
+- リベースはブランチの統合が可能（マージ同様）
+- コミット履歴を整理することができる
+- 履歴の破壊をするため、リモートブランチの操作はご法度
