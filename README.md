@@ -2,4 +2,4 @@
 Anything goes
 
 ## リンク集
-- [TIL](TIL.md)
+- [TIL](TIL.md)：今日学んだこと
