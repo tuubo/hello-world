@@ -90,3 +90,15 @@
 
 - [Markdown記法 チートシート - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#details---%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF)
 </details>
+
+## Terminal
+
+<details><summary>Linuxで新規ファイル作成をするコマンド</summary>
+
+- `touch <ファイル名>` でファイル作成が可能
+- `vi <ファイル名>` でファイルを vi で新規作成し、編集することが可能
+
+参考URL：
+
+- [【touch】Linuxで新規ファイル作成をするコマンド | UX MILK](https://uxmilk.jp/8395)
+</details>
