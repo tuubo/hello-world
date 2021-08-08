@@ -44,3 +44,9 @@ URL：[マージとリベース | Atlassian Git Tutorial](https://www.atlassian.
 - リベースはブランチの統合が可能（マージ同様）
 - コミット履歴を整理することができる
 - 履歴の破壊をするため、リモートブランチの操作はご法度
+
+URL：[タグ｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/stepup/17/)
+
+概要：
+
+- コミットを参照しやすくするため、分かりやすい名前（タグ）を付けることができる
