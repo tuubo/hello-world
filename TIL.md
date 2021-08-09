@@ -76,6 +76,17 @@
 
 </details>
 
+<details><summary>commit</summary>
+
+- `--amend` のオプションをつけることで、直前のコミットの内容を変更することが可能
+- `git add` の後に `git commit --amend` を実行すると、コミットメッセージだけでなく、コミットに含む変更内容も変わる
+
+参考URL：
+
+- [commit --amend｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/stepup/28/)
+
+</details>
+
 ## Markdown
 
 <details><summary>Markdown記法 チートシート</summary>
