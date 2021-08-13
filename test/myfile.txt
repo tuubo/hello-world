@@ -2,3 +2,5 @@ test message.
 Hello world!!!
 
 I changed test message.
+
+This is practice for getting used to use git command.
