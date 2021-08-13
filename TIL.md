@@ -1,3 +1,17 @@
+## HTML
+
+<details><summary>aria-hidden 属性</summary>
+
+- `aria-hidden="true"` を設定することで、視覚的に非表示になっていないコンテンツを支援技術から外すことができる
+- Modal の裏で表示されているコンテンツなどに適用することがある
+- 表示すべきコンテンツも含んでしまうため、 `aria-hidden="true"` を `<body>` に指定することは推奨されない
+
+参考URL：
+
+- [コンテンツの非表示と更新  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/hiding-and-updating-content?hl=ja#aria-hidden)
+- [[aria-hidden="true"] is present on the document<body></body>](https://web.dev/aria-hidden-body/)
+</details>
+
 ## CSS
 
 <details><summary>インラインブロックで画像の位置を揃える</summary>
