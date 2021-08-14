@@ -24,6 +24,16 @@
 - [css – インラインブロックを並べて画像を表示するとずれてしまう | memorandum-plus](http://memorandum-plus.com/2018/04/04/css-%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%A6%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%81%A8/)
 </details>
 
+<details><summary>CSS設計：ITCSS</summary>
+
+- ITCSS：詳細度によって階層（レイヤー）を分けてCSSを管理する設計手法
+- クラス名の命名ルールはない
+
+参考URL：
+
+- [ITCSSを採用して共同開発しやすいCSS設計をZOZOTOWNに導入した話 - ZOZO Technologies TECH BLOG](https://techblog.zozo.com/entry/itcss-to-zozotown)
+</details>
+
 ## Storybook
 
 <details><summary>Story rendering</summary>
