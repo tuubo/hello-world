@@ -34,6 +34,16 @@
 - [ITCSSを採用して共同開発しやすいCSS設計をZOZOTOWNに導入した話 - ZOZO Technologies TECH BLOG](https://techblog.zozo.com/entry/itcss-to-zozotown)
 </details>
 
+<details><summary>Atomic DesignとCSS設計</summary>
+
+- Atomic Design：UI設計の考え方で、ページをAtoms（原子）の集まりと考える
+- Atoms（原子） < Molecules（分子） < Organisms（有機体） < Templates（テンプレート） < Pages（ページ）のようにUIを階層構造で捉える
+
+参考URL：
+
+- [Atomic DesignとCSS設計 | 第1回 Atomic Designとは何か | CodeGrid](https://www.codegrid.net/articles/2017-atomic-design-1/)
+</details>
+
 ## Storybook
 
 <details><summary>Story rendering</summary>
