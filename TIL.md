@@ -44,6 +44,18 @@
 - [Atomic DesignとCSS設計 | 第1回 Atomic Designとは何か | CodeGrid](https://www.codegrid.net/articles/2017-atomic-design-1/)
 </details>
 
+## JavaScript
+
+<details><summary>Next.js</summary>
+
+- `npx create-next-app` or `yarn create next-app` でNext.js アプリが簡単に作成できる
+- pages ディレクトリの構成と対応する形でページが作成される
+
+参考URL：
+
+- [はじめに | Next.js](https://nextjs-ja-translation-docs.vercel.app/docs/getting-started)
+</details>
+
 ## Storybook
 
 <details><summary>Story rendering</summary>
