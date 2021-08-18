@@ -56,6 +56,18 @@
 - [はじめに | Next.js](https://nextjs-ja-translation-docs.vercel.app/docs/getting-started)
 </details>
 
+<details><summary>window オブジェクト</summary>
+
+- window は画面のDOM全体を収める：画面内の要素はなんでもアクセスできる
+- window はスクリプトを実行するウィンドウ：グローバル変数はwindowの変数として定義される。scriptで定義される内容はグローバル変数として定義される？
+- window は省略して書くことが可能：`window.document` も `document` も同じ
+
+参考URL：
+
+- [Window - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/Window)
+- [【JavaScript】Windowオブジェクトって結局何なの...?](https://tektektech.com/what-is-window-object/)
+</details>
+
 ## Storybook
 
 <details><summary>Story rendering</summary>
