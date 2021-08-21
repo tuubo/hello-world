@@ -181,3 +181,16 @@
 
 - [【touch】Linuxで新規ファイル作成をするコマンド | UX MILK](https://uxmilk.jp/8395)
 </details>
+
+## 環境系
+
+<details><summary>PHPの実行環境</summary>
+
+- PHPは、モジュール版とCGI版の二種がありどちらかの実行環境が必要
+- Apache：PHPモジュールを読み込み、PHPを実行する
+- nginx + PHP-FPM：FastCGIを通してPHPを実行する
+
+参考URL：
+
+- [nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する - Qiita](https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc)
+</details>
