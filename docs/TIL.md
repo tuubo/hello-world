@@ -206,3 +206,15 @@
 
 - [nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する - Qiita](https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc)
 </details>
+
+<details><summary>VSCode スニペット登録</summary>
+
+- markdown のスニペットはデフォルトで無効
+- ユーザー設定で `"[markdown]": { "editor.quickSuggestions": true }` の設定を行う
+- ファイル > ユーザー設定 > ユーザースニペット から任意の拡張子のファイルに対しスニペットを登録する
+
+参考 URL：
+
+- [Visual Studio Code で markdown のスニペットを登録する | コーヒー飲みながら仕事したい](https://coffee-nominagara.com/2019-01-25-094628)
+- [VsCode のスニペットのススメ - Qiita](https://qiita.com/xx2xyyy/items/fd333368db548167f15a)
+</details>
