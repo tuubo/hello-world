@@ -88,6 +88,16 @@
 - [Theme switcher Addon | Storybook](https://storybook.js.org/addons/storybook-addon-themes)
 </details>
 
+<details><summary>Storybook deployer Addon</summary>
+
+- Storybook を github pages や S3 に簡単にデプロイできるようになる
+- オプションで細かい指定も可能（現在はデプロイ時のディレクトリ名のみ指定している）
+
+参考 URL：
+
+- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer)
+</details>
+
 ## Git
 
 <details><summary>Git のチェリーピック</summary>
