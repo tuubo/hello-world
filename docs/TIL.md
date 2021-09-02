@@ -12,6 +12,17 @@
 - [[aria-hidden="true"] is present on the document<body></body>](https://web.dev/aria-hidden-body/)
 </details>
 
+<details><summary>スター実装テクニック（SVG）</summary>
+
+- アクセシビリティのため、aria-hidden 属性で評価に関する情報を含める
+- `<symbol id="name">`, `<use href="#name">` 要素で SVG パスデータの再利用が可能
+- `<mask>` を利用して、半透明スターを表現可能
+
+参考 URL：
+
+- [これから実装する人にオススメ！レイティングに使用するスター（星形）を実装する SVG のテクニック | コリス](https://coliss.com/articles/build-websites/operation/work/star-rating-svg-solution.html)
+</details>
+
 ## CSS
 
 <details><summary>インラインブロックで画像の位置を揃える</summary>
