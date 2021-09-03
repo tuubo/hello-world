@@ -175,6 +175,16 @@
 - [Git リポジトリ内を grep する git grep はシンプルで超便利 | DevelopersIO](https://dev.classmethod.jp/articles/useful-git-grep-command/#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%81%AE%E4%B8%80%E8%A6%A7%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%84)
 </details>
 
+<details><summary>notes</summary>
+
+- `git notes` で git のコミットに Notes を追加できる  
+  ※利点はまだよくわかってない
+
+参考 URL：
+
+- [Git - git-notes Documentation](https://git-scm.com/docs/git-notes)
+</details>
+
 ## GitHub
 
 <details><summary>GitHubページの公開</summary>
