@@ -185,6 +185,16 @@
 - [Git - git-notes Documentation](https://git-scm.com/docs/git-notes)
 </details>
 
+<details><summary>switch, restore</summary>
+
+- `git switch -c [branch-name]` で `git checkout -b [branch-name]` 同様に新規のブランチの作成＋切り替えができる
+- `git add` 後に `git restore --staged [変更したファイル]` を実行すると、`git reset` 同様に add 前の状態に戻せる
+
+参考 URL：
+
+- [git checkout の代替としてリリースされた git switch と git restore - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2020/04/08/151627)
+</details>
+
 ## GitHub
 
 <details><summary>GitHubページの公開</summary>
