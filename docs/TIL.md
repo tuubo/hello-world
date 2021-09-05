@@ -235,6 +235,16 @@
 - [【touch】Linux で新規ファイル作成をするコマンド | UX MILK](https://uxmilk.jp/8395)
 </details>
 
+<details><summary>UNIXコマンド</summary>
+
+- `pwd`：現在の作業ディレクトリをプリントする
+- `~`：ホームディレクトリを表す
+
+参考 URL：
+
+- [UNIX コマンドの使い方](http://psa2.kuciv.kyoto-u.ac.jp/staff/susaki/command/c_cd.html)
+</details>
+
 ## 環境系
 
 <details><summary>PHPの実行環境</summary>
