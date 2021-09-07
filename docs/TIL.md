@@ -283,6 +283,22 @@
   </div>
 </details>
 
+<details>
+
+  <summary>GitHub Pages での details の表示方法</summary>
+
+  <div>
+
+- `_config.yml` ファイルを追加し、`markdown: CommonMarkGhPages` の記述をすることで、適切に表示されるようになる
+
+参考 URL：
+
+- [GitHub Pages で Markdown の`<details>`内要素がパースされない - Qiita](https://qiita.com/eggplants/items/673aba3637748346797c)
+
+  </div>
+
+</details>
+
 ## Markdown
 
 <details>
