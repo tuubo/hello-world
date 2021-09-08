@@ -16,3 +16,5 @@ git rebase comment2.
 git rebase comment3.
 git rebase comment4.
 git rebase comment5.
+git rebase comment6.
+git rebase comment7.
