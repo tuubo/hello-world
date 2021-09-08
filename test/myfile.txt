@@ -12,3 +12,7 @@ git test message2.
 git test message3.
 
 git rebase comment.
+git rebase comment2.
+git rebase comment3.
+git rebase comment4.
+git rebase comment5.
