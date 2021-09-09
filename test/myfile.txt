@@ -5,16 +5,7 @@ I changed test message.
 
 This is practice for getting used to use git command.
 
-git test message.
+I want to use rebase command.
+This is test text.
 
-git test message2.
-
-git test message3.
-
-git rebase comment.
-git rebase comment2.
-git rebase comment3.
-git rebase comment4.
-git rebase comment5.
-git rebase comment6.
-git rebase comment7.
+I am going to merge three commits.
