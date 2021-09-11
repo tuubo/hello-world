@@ -75,6 +75,40 @@
   </div>
 </details>
 
+<details>
+
+  <summary>counter-increment</summary>
+
+  <div>
+
+- `counter-increment: [名前];` で、CSS で連番を作成することができる。
+- リスト毎に値をリセットしたい場合は、親に `counter-reset` を指定すればよい。
+
+```SCSS
+// 使用例
+
+.list {
+  counter-reset: list;
+
+  &-item {
+    counter-increment: list;
+
+    &::before {
+      content: list;
+    }
+  }
+}
+```
+
+参考 URL：
+
+- [counter-increment - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/counter-increment)
+- [CSS の counter-increment を使って簡単に自動で連番をつける方法 | ジーニアスブログ – WEB 制作会社ジーニアスウェブのお役立ちブログ](https://www.genius-web.co.jp/blog/web-programming/a-method-of-using-a-css-counter-increment-to-easily-get-a-sequential-number-automatically.html)
+
+  </div>
+
+</details>
+
 ## JavaScript
 
 <details>
@@ -307,7 +341,7 @@
 
 - 「折りたたみ」は `<details>` と `<summary>` で表現可能
 
-```
+```HTML
 <details><summary>表示される部分</summary>本文</details>
 ```
 
