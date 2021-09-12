@@ -433,3 +433,24 @@
 
   </div>
 </details>
+
+## Google
+
+<details>
+
+  <summary>Google フォームのカスタマイズ</summary>
+
+  <div>
+
+- 通常のサイトのフォームと、内容の同じ Google フォームを作成することで、サイトの見た目で Google フォームに結果を送信させる事が可能
+- Google フォームの `action`, `name` を連携させれば OK
+
+※集計などが楽になると思われる
+
+参考 URL：
+
+- [Google フォームを自在にカスタマイズする - Qiita](https://qiita.com/sotatakahashi/items/fa077cbf820faca30598)
+
+  </div>
+
+</details>
