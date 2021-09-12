@@ -300,6 +300,25 @@
   </div>
 </details>
 
+<details>
+
+  <summary>Gitの設定 ( git config ) </summary>
+
+  <div>
+
+- `git config <name> <value>` で各項目の設定を変更できる
+- デフォルトでは、 local の設定が変更される
+
+※人と作業するとき、`user.name` が設定されていないと宜しくなさそうなので慌てて調べた
+
+参考 URL：
+
+- [Git の設定を git config で確認・変更 | note.nkmk.me](https://note.nkmk.me/git-config-setting/)
+
+  </div>
+
+</details>
+
 ## GitHub
 
 <details>
