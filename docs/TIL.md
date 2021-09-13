@@ -141,6 +141,36 @@
   </div>
 </details>
 
+<details>
+
+  <summary>配列操作</summary>
+
+  <div>
+
+- `reverse` メソッドで、配列を逆順にする事が可能
+- `Array.from` でオブジェクトを配列に直すことが簡単にできる。
+
+例
+
+```JavaScript
+    var friends = [
+        { name: 'John', age: 22 },
+        { name: 'Peter', age: 23 },
+        { name: 'Mark', age: 24 },
+    ]
+
+    var friendsNames = Array.from(friends, ({name}) => name);
+    console.log(friendsNames); // ["John", "Peter", "Mark"]
+```
+
+参考 URL：
+
+- [JavaScript の配列操作に役立つ 13 のヒントとトリック - Qiita](https://qiita.com/rana_kualu/items/24e5b6009ad831102db4)
+
+  </div>
+
+</details>
+
 ## Storybook
 
 <details>
