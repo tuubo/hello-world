@@ -1,3 +1,24 @@
+## Web
+
+<details>
+
+  <summary>最適なフォームの作成</summary>
+
+  <div>
+
+- `type` 属性でモバイルで最適なキーボードレイアウトが表示されるように伝えることが可能
+- `autocomplete` 属性はセクション名を伴うことが可能
+- 異なるセクションの場合は、個別にオートコンプリートをすることができる
+- `checkValidity()` でフォームが有効化の判断が可能
+
+参考 URL：
+
+- [最適なフォームの作成 | Web | Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/input/forms?hl=ja)
+
+  </div>
+
+</details>
+
 ## HTML
 
 <details>
