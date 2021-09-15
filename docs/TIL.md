@@ -192,6 +192,27 @@
 
 </details>
 
+## TypeScript
+
+<details>
+
+  <summary>TypeScript入門</summary>
+
+  <div>
+
+- 変数、関数、引数等の後ろに `:型名` を指定することで型宣言が可能
+- `<型名> 値` `値 as 型名` の記述で型アサーションを使用し、型が不明な値に型付けが可能
+
+※勉強中
+
+参考 URL：
+
+- [とほほの TypeScript 入門 - とほほの WWW 入門](https://www.tohoho-web.com/ex/typescript.html)
+
+  </div>
+
+</details>
+
 ## Storybook
 
 <details>
