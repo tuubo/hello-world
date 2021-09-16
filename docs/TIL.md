@@ -255,6 +255,24 @@
   </div>
 </details>
 
+<details>
+
+  <summary>Storybook Best Practices</summary>
+
+  <div>
+
+- コンポーネント毎に 1 つの Storybook ファイルを置き、Default, Playground, その他各ステータスのストーリー含める
+
+※勉強中
+
+参考 URL：
+
+- [10 Storybook Best Practices | Better Programming](https://betterprogramming.pub/10-storybooks-best-practices-ad5fec0f145a)
+
+  </div>
+
+</details>
+
 ## Git
 
 <details>
