@@ -9,3 +9,5 @@ I want to use rebase command.
 This is test text.
 
 I am going to merge three commits.
+
+Is this a third commit or second commit?
