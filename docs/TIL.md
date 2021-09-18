@@ -192,6 +192,26 @@
 
 </details>
 
+<details>
+
+  <summary>jQueryを使うのが難しい理由</summary>
+
+  <div>
+
+- 保守が必要：古い jQuery は脆弱性を持つこともあり、最新に保たれるよう定期的にコードを更新していく必要がある
+- 速度：script タグの呼び出し完了を待つことで、遅延が発生する
+  ユーザーを待たせないように読み込み順序のコントロールが必要
+
+※jQuery 自体が悪ではないが、jQuery を選択するメリットは今や少ない
+
+参考 URL：
+
+- [そろそろなぜ jQuery を使うのが難しいのかをちゃんとまとめようと思う。｜榊原昌彦｜ note](https://note.com/rdlabo/n/ndfe07e0c0bcb)
+
+  </div>
+
+</details>
+
 ## TypeScript
 
 <details>
