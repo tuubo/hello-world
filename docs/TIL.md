@@ -563,6 +563,24 @@
   </div>
 </details>
 
+<details>
+
+  <summary>Next.js × ESLint × Prettier</summary>
+
+  <div>
+
+- ESLint：構文解析を行う。Next.js で `<img>` を使用するとエラーになるなど。
+- Prettier：コード整形を行う。
+- スタイルファイルの構文解析は `ESLint` で行う
+
+参考 URL：
+
+- [Next.js (TypeScript) に ESLint と Prettier を導入し、コードを綺麗に保とう | fwywd（フュード）](https://fwywd.com/tech/next-eslint-prettier)
+
+  </div>
+
+</details>
+
 ## Google
 
 <details>
