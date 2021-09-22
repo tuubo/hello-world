@@ -133,6 +133,24 @@
 ## JavaScript
 
 <details>
+
+  <summary>Object.defineProperty</summary>
+
+  <div>
+
+- オブジェクトのプロパティを明示的に追加・変更することができる
+- 代入でのプロパティ追加の場合、値の変更が可能だが `Object.defineProperty()` で追加した値は不変となる（ default では ）
+- `get` : プロパティにアクセスすると、引数無しでこの関数が呼ばれる。戻り値はプロパティの値として使われる
+
+参考 URL：
+
+- [Object.defineProperty() - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
+
+  </div>
+
+</details>
+
+<details>
   <summary>Next.js</summary>
   <div>
 
