@@ -240,12 +240,14 @@
 
 - 変数、関数、引数等の後ろに `:型名` を指定することで型宣言が可能
 - `<型名> 値` `値 as 型名` の記述で型アサーションを使用し、型が不明な値に型付けが可能
+- `Foo<S, T>` のような書き方で、型定義の中で `< >` で囲った名前を型変数として使うことができる
 
 ※勉強中
 
 参考 URL：
 
 - [とほほの TypeScript 入門 - とほほの WWW 入門](https://www.tohoho-web.com/ex/typescript.html)
+- [TypeScript の型入門 - Qiita](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)
 
   </div>
 
