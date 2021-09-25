@@ -571,6 +571,26 @@
 ## 環境系
 
 <details>
+
+  <summary>yarn と npm の違い</summary>
+
+  <div>
+
+- npm が先発のパッケージマネージャー。npm 公式。
+- yarn は npm のパフォーマンス・セキュリティ問題解決のために開発された。
+- npm は Node.js に同梱されインストールされる。
+- 比較記事だと yarn の方が優勢のようだが、 npm もパフォーマンスは改善されてきているらしい。
+
+参考 URL：
+
+- [npm と yarn と pnpm の違い 2021](https://zenn.dev/hibikine/articles/27621a7f95e761)
+- [【JS】yarn の長所と yarn から npm に戻ってきた理由 | JavaScript に関するお知らせ](https://jsnotice.com/posts/2020-09-02/index.html)
+
+  </div>
+
+</details>
+
+<details>
   <summary>PHPの実行環境</summary>
   <div>
 
