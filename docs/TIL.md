@@ -134,6 +134,24 @@
 
 <details>
 
+  <summary>some と every</summary>
+
+  <div>
+
+- 配列に使えるメソッド (使用例： `arr.every(elem => elem > 0)` )
+- `some` : 配列の要素 1 つ以上が条件を満たす場合に `true` を返す
+- `every` : 配列のすべての要素が条件を満たす場合に `true` を返す
+
+参考 URL：
+
+- [JavaScript の some と every がすごく便利 - Qiita](https://qiita.com/i_am_master_yoda/items/224ff73443b4566ec8e8)
+
+  </div>
+
+</details>
+
+<details>
+
   <summary>Object.defineProperty</summary>
 
   <div>
