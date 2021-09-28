@@ -55,6 +55,23 @@
 ## CSS
 
 <details>
+
+  <summary>position: absolute を使わないコンテンツの重ね合わせ</summary>
+
+  <div>
+
+- `display: grid` で要素を重ねることが可能
+- `grid-aria: 1/-1;` で二つの要素を同じエリアに配置する
+
+参考 URL：
+
+- [モダン CSS による絶対配置（position: absolute;）の削減 | コリス](https://coliss.com/articles/build-websites/operation/css/less-absolute-positioning-modern-css.html)
+
+  </div>
+
+</details>
+
+<details>
   <summary>インラインブロックで画像の位置を揃える</summary>
   <div>
 
