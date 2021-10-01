@@ -151,6 +151,31 @@
 
 <details>
 
+  <summary>無名関数・即時関数</summary>
+
+  <div>
+
+- 無名関数：関数名のない関数。1 回のみ使用する関数に使う。
+- 即時関数：定義してすぐに実行される関数。1 回のみ使用する関数に使う。
+  無名関数（アロー）を即時関数で書いた例
+
+```
+((a, b) => {
+  const sum = a + b;
+  console.log(sum);
+})(1, 2);
+```
+
+参考 URL：
+
+- [JavaScript で即時関数を使う方法【初心者向け】 | TechAcademy マガジン](https://techacademy.jp/magazine/5530)
+
+  </div>
+
+</details>
+
+<details>
+
   <summary>some と every</summary>
 
   <div>
