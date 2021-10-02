@@ -294,6 +294,22 @@
 
 <details>
 
+  <summary>props・型のTips集</summary>
+
+  <div>
+
+- `React.ComponentProps` : 対象のコンポーネントの props の型を取得できる
+
+参考 URL：
+
+- [React + TypeScript で props と型を便利に扱う Tips 集](https://zenn.dev/so_nishimura/articles/e9afde3b7dc779)
+
+  </div>
+
+</details>
+
+<details>
+
   <summary>TypeScript入門</summary>
 
   <div>
