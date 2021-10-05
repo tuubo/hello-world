@@ -2,6 +2,26 @@
 
 <details>
 
+  <summary>画像形式 WebP</summary>
+
+  <div>
+
+- 今までは用途ごとに画像フォーマットの使い分けが必要だったが、WebP でフォーマットを一本化できる
+- 対応方法：画像形式を平行サポートする
+- 出し分け方法  
+  フロント：`<picture>` 要素を使い、 `<source>` に複数形式の画像を指定する  
+  サーバーサイド：サーバー側で判断し適切な画像を返す
+
+参考 URL：
+
+- [次世代画像形式の WebP、そして AVIF へ。変わり続ける技術に対応する web 制作の黄金解 - ICS MEDIA](https://ics.media/entry/201001/)
+
+  </div>
+
+</details>
+
+<details>
+
   <summary>最適なフォームの作成</summary>
 
   <div>
