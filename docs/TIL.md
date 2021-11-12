@@ -76,6 +76,25 @@
 
 <details>
 
+  <summary>スクロールチェーンの回避</summary>
+
+  <div>
+
+- スクロールチェーン：モーダルコンテンツをスクロールし、終わりに到達するとその下のコンテンツのスクロールが始まるような動作
+- `overscroll-behavior: auto;`：デフォルトの設定。スクロールチェーンが発生する。
+- `overscroll-behavior: contain;`：スクロールを要素の境界内に格納する。
+- `overscroll-behavior: none;`：`contain` の動作に加えてページの上部・下部に到達したときのバウンス効果を防ぐ。
+
+参考 URL：
+
+- [CSS でスクロールが連鎖するのを回避する古い方法と overscroll-behavior を使った新しいテクニック | コリス](https://coliss.com/articles/build-websites/operation/css/prevent-scroll-chaining-overscroll-behavior.html)
+
+  </div>
+
+</details>
+
+<details>
+
   <summary>position: absolute を使わないコンテンツの重ね合わせ</summary>
 
   <div>
