@@ -420,3 +420,12 @@ JSON を直接呼び出す場合、MIME タイプが正しく設定されてい�
 - カスタムリクエストヘッダによる対策
 
 が代表的な対策となる。
+
+### JSONハイジャック
+
+何らかの方法で JSON データを script 要素から読みだす手法
+
+#### 対策
+- X-Content-Type-Options: nosniff ヘッダの付与
+- リクエストヘッダ X-Requested-With: XMLHttpRequest の確認
+
