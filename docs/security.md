@@ -421,11 +421,16 @@ JSON を直接呼び出す場合、MIME タイプが正しく設定されてい�
 
 が代表的な対策となる。
 
-### JSONハイジャック
+### JSON ハイジャック
 
 何らかの方法で JSON データを script 要素から読みだす手法
 
 #### 対策
+
 - X-Content-Type-Options: nosniff ヘッダの付与
 - リクエストヘッダ X-Requested-With: XMLHttpRequest の確認
 
+### JSONP の不適切な利用
+
+JSONP を使用している場合、API 側に悪意がある場合にその問題を防ぐことができない。
+そのため、JSONP は使用せずに CORS ＋ JSON に移行するのが望ましい
