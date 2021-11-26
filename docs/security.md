@@ -434,3 +434,17 @@ JSON を直接呼び出す場合、MIME タイプが正しく設定されてい�
 
 JSONP を使用している場合、API 側に悪意がある場合にその問題を防ぐことができない。
 そのため、JSONP は使用せずに CORS ＋ JSON に移行するのが望ましい
+
+### CORS の検証不備
+
+オリジンの制限をかけないもしくはわざと緩和してしまう事でセキュリティの脆弱性につながる。
+
+### セキュリティを強化するレスポンスヘッダ
+
+HTTP レスポンスヘッダとして常に出力しておくことでブラウザのセキュリティ強化につながるもの
+
+- X-Frane-Options
+- X-Content-Type-Options
+- X-XSS-Protection
+- Content-Security-Policy
+- Strict-Transport-Security
