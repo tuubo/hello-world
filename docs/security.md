@@ -448,3 +448,7 @@ HTTP レスポンスヘッダとして常に出力しておくことでブラウ
 - X-XSS-Protection
 - Content-Security-Policy
 - Strict-Transport-Security
+
+## 4.17 JavaScript の問題
+
+JavaScript の処理の不備が原因で XSS となる場合があり、DOM Based XSS と呼ばれる。
